@@ -10,3 +10,7 @@ I am doing this to learn JS and improve & strengthen my knowledge in it. Here I 
 - Figured out how to use the Date() function
 - used if condition for an error which was settled.
   
+### Day 3
+- Learned about CSS variables
+- for each function was used to iterate through each input
+  
